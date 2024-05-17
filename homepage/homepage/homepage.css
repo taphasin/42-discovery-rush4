@@ -1,0 +1,23 @@
+body {
+    background-image: url("bg_page.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #A8C4D8;
+}
+
+.navbar-scrolled {
+    background-color: rgba(255, 255, 255, 0.9);
+    transition: background-color 0.3s ease;
+}
+.name{
+    align-items: center;
+    width: 100%;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+}
+.name :hover{
+    color: lightskyblue;
+}
