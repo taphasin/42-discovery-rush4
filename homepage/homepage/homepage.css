@@ -7,10 +7,6 @@ body {
     background-color: #A8C4D8;
 }
 
-.navbar-scrolled {
-    background-color: rgba(255, 255, 255, 0.9);
-    transition: background-color 0.3s ease;
-}
 .name{
     align-items: center;
     width: 100%;
